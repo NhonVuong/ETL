@@ -28,3 +28,7 @@
   - Password: 550814
   - Database name: company_course
   - Table name: employment
+## A description of each step and decision
+- First extract data from Google Sheet, Excel, CSV, Html, Database.
+- Then transform data: Handle missing data, handle data type
+- Finally load data
